@@ -17,7 +17,6 @@ public class Main {
             } catch (Exception e) {
                 System.out.printf("Неверный ввод. Введите дробное число!!!");
                 System.out.println();
-
             }
         }
     }
